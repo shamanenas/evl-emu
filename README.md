@@ -15,7 +15,7 @@ Note: This requires the ‘pyserial’ module for interacting with the serial po
 
 ```
 cd $HOME
-git clone https://github.com/SolidElectronics/evl-emu.git
+git clone https://github.com/shamanenas/evl-emu.git
 ```
 - Change the baud rate and port in evl-emu.py to match your device
 - Change 'host' in the HomeAssistant envisalink.yaml to the emulator system's IP address.
